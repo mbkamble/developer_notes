@@ -13,3 +13,5 @@
             from IPython.core.interactiveshell import InteractiveShell
             InteractiveShell.ast_node_interactivity = "all"
       This tells Jupyter to print the results for any variable or statement on it’s own line
+*** Jupter tips and tricks
+      - [[https://blogs.baruch.cuny.edu/cis3100/?p=40][Read this blog]]
