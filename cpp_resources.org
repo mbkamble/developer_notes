@@ -1,0 +1,2 @@
+* CS106L course on stanford
+  - [[https://web.stanford.edu/class/cs106l/lectures][Standford CS106L]]
