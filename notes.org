@@ -8,4 +8,8 @@
       The first command modifies the file in place because of the clear-output option (which also automatically sets the 
       --to notebook option). In the second, we can choose a different destination if desired
       In both cases, the ClearOutputPreprocessor needs to be enabled, or else the output cells continue to persist.
-      
+*** Displaying multiple variables from the same cell
+      Use the following:
+            from IPython.core.interactiveshell import InteractiveShell
+            InteractiveShell.ast_node_interactivity = "all"
+      This tells Jupyter to print the results for any variable or statement on it’s own line
