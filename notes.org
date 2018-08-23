@@ -1,11 +1,22 @@
+* GnuPG
+  - To see which keys are present in gpp agent
+#+BEGIN_SRC bash
+gpg--connect-agent "keyinfo --list" /bye
+# To understand the output of above
+gpg--connect-agent 'help keyinfo' /bye
+# To view keys with keygrip
+gpg --list[-secret]-keys --with-keygrip
+# To view keys with keyid
+gpg --list[-secret]-keys --keyid-format long
+#+END_SRC
 * Jupyter
 *** Clearing output cells from nb file
-      This is needed when you want to commit your nb files to a VCS such as git or hg. One would like to save only the content 
+      This is needed when you want to commit your nb files to a VCS such as git or hg. One would like to save only the content
       creation commands into the VCS.
       -  jupyter nbconvert --ClearOutputPreprocessor.enabled=True --clear-output <input.ipynb>
       -  jupyter nbconvert --ClearOutputPreprocessor.enabled=True --to notebook --stdout <input.ipynb > input_cleaned.ipynb
-      
-      The first command modifies the file in place because of the clear-output option (which also automatically sets the 
+
+      The first command modifies the file in place because of the clear-output option (which also automatically sets the
       --to notebook option). In the second, we can choose a different destination if desired
       In both cases, the ClearOutputPreprocessor needs to be enabled, or else the output cells continue to persist.
 *** Displaying multiple variables from the same cell
