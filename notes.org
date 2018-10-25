@@ -26,3 +26,5 @@ gpg --list[-secret]-keys --keyid-format long
       This tells Jupyter to print the results for any variable or statement on it’s own line
 *** Jupter tips and tricks
       - [[https://blogs.baruch.cuny.edu/cis3100/?p=40][Read this blog]]
+*** Useful links
+      - [[https://libguides.wilmu.edu/c.php?g=170502&p=1124336][ValueLine decoder ring]]
