@@ -4,3 +4,35 @@ http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%
 http://blog.fogus.me/2014/01/27/timothy-hart-rest-in-peace/
 https://letoverlambda.com/index.cl/guest/chap1.html  (Let over Lambda)
 http://www.gigamonkeys.com/book/ (Practical common lisp)
+
+Internet Archive Books:
+https://archive.org/download/in.ernet.dli.2015.550889/2015.550889.I-I.pdf
+https://archive.org/download/in.ernet.dli.2015.441970/2015.441970.Gandhi-Vadh.pdf
+https://archive.org/download/in.ernet.dli.2015.147667/2015.147667.Integral-Calculus-Ed1st.pdf
+https://archive.org/download/in.ernet.dli.2015.158853/2015.158853.High-School-English-Grammer-And-Composition.pdf
+https://archive.org/download/in.ernet.dli.2015.86278/2015.86278.Plane-Trigonometry-Part-I.pdf
+https://archive.org/download/in.ernet.dli.2015.408350/2015.408350.Mrityunjaya-The.pdf
+https://archive.org/download/in.ernet.dli.2015.347599/2015.347599.Amar-Shahid.pdf
+https://archive.org/download/in.ernet.dli.2015.131483/2015.131483.How-To-Write-Correct-English.pdf
+https://archive.org/download/in.ernet.dli.2015.273579/2015.273579.121-Dimagi.pdf
+https://archive.org/download/in.ernet.dli.2015.135792/2015.135792.An-Introduction-To-Linear-Algebra.pdf
+https://archive.org/download/in.ernet.dli.2015.99009/2015.99009.Mario-Puzo-The-Godfather.pdf
+https://archive.org/download/in.ernet.dli.2015.177580/2015.177580.The-Principles-Of-Quantum-Mechanics.pdf
+https://archive.org/download/in.ernet.dli.2015.45480/2015.45480.A-Treatise-On-Money--Vol1.pdf (keynes)
+https://archive.org/download/in.ernet.dli.2015.134920/2015.134920.Electrical-Technology-Ed-5th.pdf (h. cotton)
+https://archive.org/download/indianwarofindep00vina/indianwarofindep00vina.pdf (savarkar)
+https://archive.org/download/in.ernet.dli.2015.81340/2015.81340.Hindu--Pad--Padashahi.pdf (savarkar)
+https://archive.org/download/Hindutva_veer_savarkar/Hindutva.pdf (savarkar)
+https://archive.org/download/hindutva-vinayak-damodar-savarkar-pdf/hindutva-vd-savarkar.pdf (savarkar)
+https://archive.org/download/HinduPadPadshahi/Hindu%20Pad-Padshahi.pdf (hindi, savarkar)
+https://archive.org/download/investmentandsp01atwogoog/investmentandsp01atwogoog.pdf (Investment & Speculation)
+https://archive.org/download/in.ernet.dli.2015.224990/2015.224990.Investment-Analysis.pdf
+https://archive.org/download/in.ernet.dli.2015.224992/2015.224992.Investment-Analysis.pdf
+https://archive.org/download/investmentanalys00lageiala/investmentanalys00lageiala.pdf (Investment analysis, Lagerquist)
+https://archive.org/download/CollegePhysics_201811/CollegePhysics-OP_uZAa6O0.pdf (Paul Peter, OpenStax, CalState)
+https://archive.org/download/MathematicalPhysics_201902/Mathematical%20Physics.pdf (for engineers)
+https://archive.org/download/GeneralPhysics/LandauAkhiezerLifshitz-GeneralPhysics.pdf (Physics Landau)
+https://archive.org/download/UniversityPhysicsWithModernPhysics1/University_Physics_with_Modern_Physics_1.pdf (Sears Zemansky University Physics)
+https://archive.org/download/in.ernet.dli.2015.238907/2015.238907.Modern-Physics.pdf (Jauncey WUSTL)
+https://archive.org/download/in.ernet.dli.2015.165804/2015.165804.Modern-Physics.pdf (Wilson, Rice Univ)
+https://archive.org/download/in.ernet.dli.2015.11421/2015.11421.Fundamental-Physics.pdf (Taylor Oberlin College)
